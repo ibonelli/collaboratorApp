@@ -128,3 +128,10 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Project Ignore Stuff
+Docs/
+backend/node_modules
+frontend/node_modules
+backend/.vscode/
+backend/collaborators.db
