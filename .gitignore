@@ -132,6 +132,7 @@ dist
 # Project Ignore Stuff
 Docs/
 backend/node_modules
-frontend/node_modules
 backend/.vscode/
 backend/collaborators.db
+frontend/node_modules
+frontend/.vscode/
